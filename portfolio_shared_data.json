@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Soham Pathak",
+      "titles": [ "Frontend Developer", "Backend Developer", "Data Scientist" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Soham-pathak",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/soham_pathak",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "profile-pic.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "PSql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "JAVA",
+          "class": "devicon-java-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

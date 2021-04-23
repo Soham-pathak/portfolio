@@ -1,0 +1,164 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Soham Pathak! Welcome to my website. I studied Computer Science and Statistics at the University of Toronto. I love working with newest technologies like React and AWS and I am interested in blockchain technology and Cybersecurity. I love playing video games in my free time and I love watching old movies.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Crown Clothing",
+        "startDate": "2021",
+        "description": "Multi page Responsive E-Commerce website for clothing products made using React, Redux, Firebase, React Hooks. I used Redux to scale the application and stripe API to handle payment gateways.I used Firebase Firestore to store user credentials and Firebase Auth for authentication.",
+        "images": [
+          "images/portfolio/Crown-clothing/crown.jpg",
+          "images/portfolio/Crown-clothing/crown_3.jpg",
+          "images/portfolio/Crown-clothing/crown_2.jpg",
+          "images/portfolio/Crown-clothing/crown_1.jpg"
+        ],
+        "url": "https://github.com/Soham-pathak/Clothing-E-commerce",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "PlanIt",
+        "startDate": "2019",
+        "description": "This application has the ability to generate an Iterary for you based on your prefrences. In addition, it can plan out which times you should visit the locations, sync with your phone's calendar and give you interesting attractions based on a set location, feedback/review system as well as navigation to locations. I used GitFlow and AGILE methodologies to maintain processes by conducting weekly scrum meetings and 2-weeksprints. Used NGROK and Expo to deploy, launch and test the application that is compatible with both android and ios devices.",
+        "images": [
+          "images/portfolio/Planit/planit.jpg",
+          "images/portfolio/Planit/planit_1.jpg",
+          "images/portfolio/Planit/planit_2.jpg",
+          "images/portfolio/Planit/planit_3.jpg"
+        ],
+        "url": "https://github.com/Soham-pathak/Planit",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          }
+        ]
+      },
+      {
+        "title": "AutoLease",
+        "startDate": "2018",
+        "description": "AutoLease is a person-to-person car loaning and borrowing web app written in Python3 with Flask. This project was built by me and my team in two days at U of T Hacks 2019. I used HTML, Bootstrap and CSS to make the frontend responsive and PyMySQL database to store user credentials.We integrated Interac e-transfer and Smartcar API to manage transactions between users.",
+        "images": [
+          "images/portfolio/Autolease/AutoLease.jpg",
+          "images/portfolio/Autolease/gallery.jpg",
+          "images/portfolio/Autolease/gallery-2.jpg",
+          "images/portfolio/Autolease/gallery-3.jpg",
+          "images/portfolio/Autolease/gallery-4.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          }
+        ]
+      },
+      {
+        "title": "K Factory",
+        "startDate": "2016",
+        "description": "Android Application for a restaurant that lets the customers place orders, send feedback and check the menu. Built using HTML, CSS, JS, MySQL and PHPMyadmin and deployed as an android application. ",
+        "images": [
+          "images/portfolio/Kfactory/Kfactory.jpg"
+        ],
+        "url": " https://drive.google.com/open?id=1x5OBD2UnHjvQ9FK1mQfaYvgBu754Ypsj",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JS"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "SwiftSense Inc.",
+        "title": "Software Developer Intern",
+        "years": "05.2020 - 08.2020",
+        "mainTech": [
+          "Node-RED"
+        ],
+        "technologies": [
+          "REST API",
+          "Node-RED",
+          "JavaScript",
+          "KODI.TV",
+          "Python"
+        ]
+      },
+      {
+        "company": "VRythms",
+        "title": "Software Developer Intern",
+        "years": "05.2016 - 07.2016",
+        "mainTech": [
+          "HTML/JS/CSS"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "MySQL",
+          "PHP",
+          "JavaScript"
+        ]
+      }
+    ]
+  }

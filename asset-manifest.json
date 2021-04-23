@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Breact-website%7D/static/css/main.064f7bd3.chunk.css",
+    "main.js": "/%7Breact-website%7D/static/js/main.c9f2ef31.chunk.js",
+    "main.js.map": "/%7Breact-website%7D/static/js/main.c9f2ef31.chunk.js.map",
+    "runtime-main.js": "/%7Breact-website%7D/static/js/runtime-main.980e9a98.js",
+    "runtime-main.js.map": "/%7Breact-website%7D/static/js/runtime-main.980e9a98.js.map",
+    "static/css/2.d64471e2.chunk.css": "/%7Breact-website%7D/static/css/2.d64471e2.chunk.css",
+    "static/js/2.92a063fc.chunk.js": "/%7Breact-website%7D/static/js/2.92a063fc.chunk.js",
+    "static/js/2.92a063fc.chunk.js.map": "/%7Breact-website%7D/static/js/2.92a063fc.chunk.js.map",
+    "index.html": "/%7Breact-website%7D/index.html",
+    "precache-manifest.c352f50ac50398c5eed68b3c0a30cd59.js": "/%7Breact-website%7D/precache-manifest.c352f50ac50398c5eed68b3c0a30cd59.js",
+    "service-worker.js": "/%7Breact-website%7D/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/%7Breact-website%7D/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.064f7bd3.chunk.css.map": "/%7Breact-website%7D/static/css/main.064f7bd3.chunk.css.map",
+    "static/js/2.92a063fc.chunk.js.LICENSE.txt": "/%7Breact-website%7D/static/js/2.92a063fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.980e9a98.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.92a063fc.chunk.js",
+    "static/css/main.064f7bd3.chunk.css",
+    "static/js/main.c9f2ef31.chunk.js"
+  ]
+}
