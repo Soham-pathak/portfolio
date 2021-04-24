@@ -98,6 +98,7 @@ class App extends Component {
               data-icon="emojione-v1:flag-for-india" 
             data-inline="false"
               id={window.$primaryLanguageIconId}
+              style={{cursor: 'default'}}
             ></span>
           </div>
           <div
@@ -107,13 +108,14 @@ class App extends Component {
                 window.$primaryLanguageIconId
               )
             }
-            style={{ display: "inline" }}
+            style={{ display: "inline" , cursor: 'default'}}
           >
             <span
               className="iconify language-icon"
               data-icon="emojione-v1:flag-for-canada" 
               data-inline="false"
               id={window.$secondaryLanguageIconId}
+              style={{cursor: 'default'}}
             ></span>
           </div>
         </div>
