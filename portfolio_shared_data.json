@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/soham_pathak",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/sohampathak/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "profile-pic.jpg"
