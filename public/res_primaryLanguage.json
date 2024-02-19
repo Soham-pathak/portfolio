@@ -131,6 +131,21 @@
     ],
     "experience": [
       {
+        "company": "Levio Inc. ( formerly Indellient )",
+        "title": "Indermediate Fullstack Software Engineer",
+        "years": "08.2021 - current",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Spring",
+          "AWS",
+          "Angular",
+          "Maven",
+          "IBM MQ"
+        ]
+      },
+      {
         "company": "SwiftSense Inc.",
         "title": "Software Developer Intern",
         "years": "05.2020 - 08.2020",
